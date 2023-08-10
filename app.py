@@ -3,7 +3,7 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 import numpy as np
-import cv2
+
 import uuid
 import tempfile
 from model import U2NET
