@@ -127,7 +127,7 @@ cleanup_thread.start()
 atexit.register(cleanup_temp_files)
 
 # API route to remove background from an image
-@app.route('/remove_bg', methods=['POST'])
+@app.route('/remove_bgPydfw3', methods=['POST'])
 def remove_bg_api():
     if 'image' not in request.files:
         return 'No image data provided.', 400
