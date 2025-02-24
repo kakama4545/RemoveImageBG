@@ -27,6 +27,10 @@ torchvision==0.16.2
 typing-extensions==4.7.1
 Werkzeug==2.0.3
 uvicorn==0.23.2
+setuptools
+wheel
+
+
 
 --index-url https://pypi.python.org/simple/
 --index-url https://mirrors.aliyun.com/pypi/simple/
