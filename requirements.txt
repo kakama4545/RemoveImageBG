@@ -14,7 +14,7 @@ networkx==2.7.1
 numpy==2.2.3
 opencv-python==4.5.5.64
 packaging==21.3
-Pillow==9.0.1
+pillow==11.1.0
 pyparsing==3.0.7
 python-dateutil==2.8.2
 PyWavelets==1.2.0
@@ -27,5 +27,5 @@ torchvision==0.16.2
 typing-extensions==4.7.1
 Werkzeug==2.0.3
 uvicorn==0.23.2
-setuptools
+setuptools==75.8.0
 wheel
